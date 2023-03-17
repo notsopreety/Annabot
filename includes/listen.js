@@ -51,5 +51,3 @@ module.exports = function({ api, models }) {
 		}
 	};
 };
-
-//THIZ BOT WAS MADE BY ME(CATALIZCS) AND MY BROTHER SPERMLORD - DO NOT STEAL MY CODE (つ ͡ ° ͜ʖ ͡° )つ ✄ ╰⋃╯
